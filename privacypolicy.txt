@@ -63,17 +63,9 @@ We do not share Your personal information with third parties except for Service 
 Data Security
 We take reasonable measures to protect Your data. However, no system can be completely secure, and We cannot guarantee absolute security.
 
-Links to Privacy Policy and Terms of Use (EULA)
-You can access the following important documents:
 
-Privacy Policy: [Insert Privacy Policy Link]
-Terms of Use (EULA):
-Standard Apple EULA: Apple Standard EULA
-Custom Terms (if applicable): [Insert EULA Link]
-Changes to This Privacy Policy
-We may update this Privacy Policy to reflect changes in our services or legal requirements. You will be notified of significant changes through email or a prominent notice in the app.
 
 Contact Us
 If you have any questions about this Privacy Policy, you can contact us at:
-Email: [Insert Contact Email]
-Address: [Insert Company Address]
+Email: https://omerceyhann.github.io/privacypolicy.txt
+Address: Basaksehir/Istanbul
