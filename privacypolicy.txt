@@ -1,0 +1,79 @@
+Privacy Policy for Lolly - AI Logo Maker
+Last updated: November 14, 2024
+
+This Privacy Policy describes Our policies and procedures regarding the collection, use, and disclosure of Your information when You use the Service, including details about auto-renewable subscriptions, and informs You about Your privacy rights and how the law protects You.
+
+By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
+
+Interpretation and Definitions
+Definitions
+Application: Refers to Lolly - AI Logo Maker, the software program provided by the Company.
+Company: Refers to Lolly - AI Logo Maker.
+Country: Refers to Turkey.
+Service: Refers to the Application and its functionalities.
+Subscription: Refers to the auto-renewable subscription plans available in the Service, such as monthly or yearly plans.
+Personal Data: Information that relates to an identifiable individual.
+You: Refers to the individual using the Service.
+Auto-Renewable Subscriptions
+When You subscribe to Lolly - AI Logo Maker, the following details apply:
+
+Subscription Plans:
+
+Monthly Subscription
+Annual Subscription
+Pricing:
+Prices for subscription plans will be displayed clearly within the application and are subject to regional variations based on currency.
+
+Renewal:
+Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
+
+Management:
+You can manage or cancel subscriptions through Your Apple ID settings.
+
+Trial Periods:
+If a free trial is available, it will automatically convert into a paid subscription unless canceled within the trial period.
+
+Refunds:
+Refunds for subscriptions are managed by Apple. Please contact Apple Support for refund inquiries.
+
+Collecting and Using Your Personal Data
+Types of Data Collected
+Personal Data:
+While using Our Service, You may be required to provide personal information, such as name, email, and payment information for subscriptions.
+
+Usage Data:
+Automatically collected data, including IP address, device type, operating system, and app usage analytics.
+
+Use of Data
+Your data may be used for:
+
+Processing subscriptions and managing Your Account.
+Improving the Service and providing support.
+Sending subscription-related notifications and promotional content.
+Privacy Policy for Subscription Management
+Third-Party Services:
+Payments and subscriptions are processed through Apple’s App Store. Apple’s Privacy Policy applies to these transactions.
+
+Retention of Data:
+Personal data is retained as long as necessary for subscription management and legal compliance.
+
+Data Sharing:
+We do not share Your personal information with third parties except for Service Providers necessary to facilitate subscriptions or comply with legal obligations.
+
+Data Security
+We take reasonable measures to protect Your data. However, no system can be completely secure, and We cannot guarantee absolute security.
+
+Links to Privacy Policy and Terms of Use (EULA)
+You can access the following important documents:
+
+Privacy Policy: [Insert Privacy Policy Link]
+Terms of Use (EULA):
+Standard Apple EULA: Apple Standard EULA
+Custom Terms (if applicable): [Insert EULA Link]
+Changes to This Privacy Policy
+We may update this Privacy Policy to reflect changes in our services or legal requirements. You will be notified of significant changes through email or a prominent notice in the app.
+
+Contact Us
+If you have any questions about this Privacy Policy, you can contact us at:
+Email: [Insert Contact Email]
+Address: [Insert Company Address]
