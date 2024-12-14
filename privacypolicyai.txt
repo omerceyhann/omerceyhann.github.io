@@ -1,0 +1,61 @@
+Privacy Policy for AI Art Generator - Spark
+
+Effective Date: 20.11.24
+Contact Email: omerceyhan.qq@gmail.com
+
+Welcome to AI Art Generator - Spark! Your privacy is important to us, and we are committed to protecting it. This Privacy Policy explains how we collect, use, and safeguard your information when you use our app. By using AI Art Generator - Spark, you agree to the terms outlined in this policy.
+
+Information We Collect
+
+When you use our app, we may collect the following information:
+	1.	Uploaded Prompts and Art Outputs: Prompts you provide and generated art outputs are temporarily processed on secure servers to provide requested services. We do not use your data for purposes other than generating art based on your prompts.
+	2.	Device Information: Non-personal data such as device type, operating system, and app usage analytics to improve app performance.
+	3.	Payment Information: If you purchase a subscription, payment details are securely processed by third-party payment providers like Apple or Google. We do not store any payment information.
+
+How We Use Your Information
+
+	1.	Art Generation: Prompts and associated data are processed to generate custom art. Once the art is delivered, data is temporarily stored and automatically deleted after [insert duration, e.g., 24 hours].
+	2.	App Performance: Usage data helps us enhance your experience and troubleshoot technical issues.
+	3.	Subscription Management: Subscription details enable access to premium features like unlimited credits or higher-resolution outputs.
+
+Subscriptions
+
+We offer the following subscriptions for premium features:
+	•	Weekly: $2.99
+	•	Monthly: $4.99
+	•	Lifetime: $14.99
+
+Subscriptions are managed through your Apple or Google account. You can cancel or manage your subscription anytime through your account settings. For more details, refer to Apple or Google’s terms.
+
+Third-Party Sharing
+
+We do not share your prompts, personal information, or subscription details with third parties, except:
+	•	Payment Processing: When required by Apple or Google for subscription management.
+	•	Legal Requirements: If required by law, we may disclose information to comply with legal obligations.
+
+Data Security
+
+We prioritize the security of your data by implementing the following measures:
+	•	Encryption: All data transfers and prompts are encrypted.
+	•	Temporary Storage: Prompts and generated outputs are automatically deleted after processing.
+	•	Access Control: Only authorized systems can access user-provided data to deliver requested services.
+
+Your Rights
+
+As a user, you have the following rights:
+	•	Access: Request access to the data we collect about you.
+	•	Deletion: Request deletion of your prompts, generated art, or other personal information.
+	•	Opt-Out: Disable data collection by uninstalling the app.
+
+To exercise these rights, please contact us at omerceyhan.qq@gmail.com.
+
+Updates to This Privacy Policy
+
+We may update this Privacy Policy periodically. Any changes will be reflected in the “Effective Date” at the top of this policy. Continued use of the app after any updates constitutes acceptance of the revised policy.
+
+Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+Email: omerceyhan.qq@gmail.com
+
+Thank you for using AI Art Generator - Spark!
