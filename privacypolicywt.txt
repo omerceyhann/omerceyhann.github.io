@@ -1,0 +1,65 @@
+Privacy Policy
+
+Effective Date: December 26, 2024
+
+Welcome to Weight & Gain Tracker Pro ("the App"). Your privacy is important to us, and we are committed to protecting the information you share with us. This Privacy Policy explains how we collect, use, and safeguard your information when you use the App.
+
+1. Information We Collect
+
+1.1. Information You Provide
+
+We do not collect or store any personal information you input into the App, such as weight data or other health-related information. All data is stored locally on your device.
+
+1.2. Camera Access
+
+The App may request access to your camera to allow you to capture photos for personal tracking purposes. These photos are stored locally on your device and are not uploaded or shared with us.
+
+1.3. Analytics
+
+We use Google Analytics to track anonymized usage data, such as how often the App is used and which features are most popular. This data helps us improve the App’s functionality and user experience. No personally identifiable information is collected through Google Analytics.
+
+2. How We Use Your Information
+
+To provide and improve the App’s functionality.
+
+To understand user behavior through anonymized analytics.
+
+To ensure the App operates efficiently and effectively.
+
+3. Subscriptions
+
+The App offers the following subscription options:
+
+Weekly subscription
+
+Monthly subscription
+
+Lifetime access
+
+All subscriptions are managed through the app store’s secure payment system. We do not collect or store any payment information.
+
+4. Data Security
+
+We take reasonable steps to protect your information. However, please note that no system can be 100% secure, and we cannot guarantee the absolute security of your data.
+
+5. Your Choices
+
+You can choose not to grant camera access. This will not affect your ability to use other features of the App.
+
+You can opt out of Google Analytics tracking by adjusting your device settings or using third-party tools.
+
+6. Third-Party Services
+
+The App integrates with third-party services, such as Google Analytics, which may collect anonymized data. Please review their privacy policies for more information.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected in the "Effective Date" above. We encourage you to review this Privacy Policy periodically.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: omerceyhan.qq@gmail.com
+
+Thank you for using Weight & Gain Tracker Pr
